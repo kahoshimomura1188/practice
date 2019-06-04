@@ -5,5 +5,6 @@ public class Conflict{
 	  for(int randomN=0 ; randomN<10 ; randomN++){
      System.out.println("randomN");
    }
+  
    }
 }
